@@ -1,4 +1,1 @@
-#支持指定架构
---platform=linux/arm64
-
 ubuntu:18.04
