@@ -1,2 +1,2 @@
 pixman/pixman
-youshandefeiyang/allinone
+homeassistant/home-assistant:latest
