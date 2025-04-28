@@ -1,3 +1,4 @@
 pixman/pixman
 homeassistant/home-assistant:latest
 guovern/iptv-api
+sathvikrao/clipcascade:latest
