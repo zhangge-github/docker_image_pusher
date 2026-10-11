@@ -2,7 +2,7 @@ pixman/pixman
 homeassistant/home-assistant:latest
 guovern/iptv-api
 sathvikrao/clipcascade:latest
-python
+python:2.7.18
 python:3.10
 python:3.11
 python:3.12
