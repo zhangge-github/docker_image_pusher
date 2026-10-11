@@ -3,3 +3,7 @@ homeassistant/home-assistant:latest
 guovern/iptv-api
 sathvikrao/clipcascade:latest
 python
+python:3.12.12
+ubuntu
+ubuntu:20.04
+ubuntu:24.04
